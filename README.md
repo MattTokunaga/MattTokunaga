@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MattTokunaga
 - 👀 I’m interested in data science and mathematics.
-- 🌱 I’m currently learning machine learning with Tensorflow and Keras.
 - ⚾ Baseball and basketball 
 
 <!---
